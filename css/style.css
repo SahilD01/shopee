@@ -31,7 +31,10 @@ body {
     text-decoration: none;
   }
 
+  
+
   .wrapper {
+  
     background-color: #ffffff;
     height: 350px;
     width: 554px;
@@ -139,5 +142,3 @@ body {
     cursor: pointer;
     outline: none;
   }
-  
-
